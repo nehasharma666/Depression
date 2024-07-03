@@ -10,8 +10,11 @@
 Research exploring linguistic markers in individuals with depression has demonstrated that language usage can serve as an indicator of mental health. This study investigates the impact of discussion topic as context on linguistic markers and emotional expression in depression, using a Reddit dataset to explore interaction effects. Contrary to common findings, our sentiment analysis revealed a broader range of emotional intensity in depressed individuals, with both higher negative and positive sentiments than controls. This pattern was driven by posts containing no emotion words, revealing the limitations of the lexicon based approaches in capturing the full emotional context. We observed several interesting results demonstrating the importance of contextual analyses. For instance, the use of 1st person singular pronouns and words related to anger and sadness correlated with increased positive sentiments, whereas a higher rate of present-focused words was associated with more negative sentiments. 
 Our findings highlight the importance of discussion contexts while interpreting the language used in depression, revealing that the emotional intensity and meaning of linguistic markers can vary based on the topic of discussion. 
 
+
+## **user_ids.json**
+Contains the depression and control user IDs from the dataset used in the [SMHD paper](https://arxiv.org/abs/1806.05258). To obtain the dataset to replicate our work, please contact the authors of the SMHD paper directly. Once you have accessed the dataset, you can use this `user_ids.json` file to collect data for our selected users as outlined in our methodology.
+
 ## **Repository Structure**
-### **user_ids.json**: Contains the depression and control user IDs from the dataset used in the [SMHD paper](https://arxiv.org/abs/1806.05258). To obtain the dataset to replicate our work, please contact the authors of the SMHD paper directly. Once you have accessed the dataset, you can use this `user_ids.json` file to collect data for our selected users as outlined in our methodology.
 
 ### 1. **Sentiment and Topic Models and Basic Analysis**
 This folder contains the following:
