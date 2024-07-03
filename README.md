@@ -11,6 +11,7 @@ Research exploring linguistic markers in individuals with depression has demonst
 Our findings highlight the importance of discussion contexts while interpreting the language used in depression, revealing that the emotional intensity and meaning of linguistic markers can vary based on the topic of discussion. 
 
 ## **Repository Structure**
+### 1. **user_ids.json**: contains the depression and control user ids from dataset of  [SMHD paper](https://arxiv.org/abs/1806.05258)
 
 ### 1. **Sentiment and Topic Models and Basic Analysis**
 This folder contains the following:
