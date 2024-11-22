@@ -1,20 +1,22 @@
 # **Context is Important in Depressive Language: A Study of the Interaction Between the Sentiments and Linguistic Markers in Reddit Discussions**
 
 Volume: Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis
+
 Month: August
 Year: 2024
+
 Publisher: Association for Computational Linguistics
+
 Pages: 344–361
+
 URL: https://aclanthology.org/2024.wassa-1.28
+
 DOI: 10.18653/v1/2024.wassa-1.28
-Cite (ACL): Neha Sharma and Kairit Sirts. 2024. Context is Important in Depressive Language: A Study of the Interaction Between the Sentiments and Linguistic Markers in Reddit Discussions. In Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis, pages 344–361, Bangkok, Thailand. Association for Computational Linguistics.
-Cite (Informal): Context is Important in Depressive Language: A Study of the Interaction Between the Sentiments and Linguistic Markers in Reddit Discussions (Sharma & Sirts, WASSA-WS 2024)
-PDF: https://aclanthology.org/2024.wassa-1.28.pdf
-**Accepted in:**
-14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA) at ACL 2024.
 
 **Paper Link:**
 [Context is Important in Depressive Language: A Study of the Interaction Between the Sentiments and Linguistic Markers in Reddit Discussions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zvQvpjIAAAAJ&citation_for_view=zvQvpjIAAAAJ:u-x6o8ySG0sC)
+
+**PDF ACL Anthology:** https://aclanthology.org/2024.wassa-1.28.pdf
 
 ## **Abstract**
 Research exploring linguistic markers in individuals with depression has demonstrated that language usage can serve as an indicator of mental health. This study investigates the impact of discussion topic as context on linguistic markers and emotional expression in depression, using a Reddit dataset to explore interaction effects. Contrary to common findings, our sentiment analysis revealed a broader range of emotional intensity in depressed individuals, with both higher negative and positive sentiments than controls. This pattern was driven by posts containing no emotion words, revealing the limitations of the lexicon based approaches in capturing the full emotional context. We observed several interesting results demonstrating the importance of contextual analyses. For instance, the use of 1st person singular pronouns and words related to anger and sadness correlated with increased positive sentiments, whereas a higher rate of present-focused words was associated with more negative sentiments. 
