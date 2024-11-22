@@ -1,5 +1,15 @@
 # **Context is Important in Depressive Language: A Study of the Interaction Between the Sentiments and Linguistic Markers in Reddit Discussions**
 
+Volume: Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis
+Month: August
+Year: 2024
+Publisher: Association for Computational Linguistics
+Pages: 344–361
+URL: https://aclanthology.org/2024.wassa-1.28
+DOI: 10.18653/v1/2024.wassa-1.28
+Cite (ACL): Neha Sharma and Kairit Sirts. 2024. Context is Important in Depressive Language: A Study of the Interaction Between the Sentiments and Linguistic Markers in Reddit Discussions. In Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis, pages 344–361, Bangkok, Thailand. Association for Computational Linguistics.
+Cite (Informal): Context is Important in Depressive Language: A Study of the Interaction Between the Sentiments and Linguistic Markers in Reddit Discussions (Sharma & Sirts, WASSA-WS 2024)
+PDF: https://aclanthology.org/2024.wassa-1.28.pdf
 **Accepted in:**
 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA) at ACL 2024.
 
